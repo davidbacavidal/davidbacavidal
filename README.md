@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi! I'm David, a biologist with an M.Sc. in Terrestrial Ecology and Biodiversity Management.
 
-<!--
-**davidbacavidal/davidbacavidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I created this GitHub repository to showcase my technical skills, serve as a portfolio of my work, and continuously learn and practice new tools.
 
-Here are some ideas to get you started:
+Core Skills & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Programming & Databases: Python, RStudio, SQL
+
+🗺️ GIS & Geospatial Analysis: QGIS, MiraMon
+
+📊 Data Science & AI: Data Analysis, Machine Learning, and Deep Learning
+
+My goal is to apply quantitative and data-driven approaches to solve complex problems in ecology and environmental science.
